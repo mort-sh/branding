@@ -1,6 +1,13 @@
-<div align="center">
-  <img src="./design.png" alt="Mort branding neon sigil" width="280" style="max-width:65%;border-radius:24px;box-shadow:0 30px 80px rgba(241,143,1,0.25), 0 0 0 1px rgba(241,143,1,0.1);" />
-  <h1 style="margin-top:32px;color:#F18F01;text-shadow:0 0 20px rgba(241,143,1,0.3);">Mort Branding</h1>
+<div align="center" style="margin:40px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;margin-bottom:32px;">
+    <img src="./logos/SOLID/SOLID_MORT_1.png" alt="Mort sigil" width="180" style="filter:drop-shadow(0 0 30px rgba(241,143,1,0.4));" />
+    <div style="display:flex;gap:12px;align-items:center;">
+      <img src="./Set/1x/Asset 5.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+      <img src="./Set/1x/Asset 7.png" alt="Asset accent" width="40" style="opacity:0.5;filter:drop-shadow(0 0 12px rgba(241,143,1,0.25));" />
+      <img src="./Set/1x/Asset 9.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+    </div>
+  </div>
+  <h1 style="margin-top:24px;color:#F18F01;text-shadow:0 0 20px rgba(241,143,1,0.3);">Mort Branding</h1>
   <p style="font-size:1.1em;margin-top:8px;"><strong>Cinematic visual identity system for the hooded-amber universe</strong></p>
   <p style="margin-top:12px;opacity:0.85;">logos • backgrounds • design assets • brand guidelines</p>
 </div>
@@ -8,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="./backgrounds/MortBackgrounWide.jpg" alt="Cinematic techflow background" width="100%" style="border-radius:16px;opacity:0.5;margin:48px 0;box-shadow:0 25px 70px rgba(5,3,0,0.4), inset 0 0 100px rgba(241,143,1,0.05);" />
+  <img src="./backgrounds/mort-background-wide-1.jpg" alt="Cinematic techflow background" width="100%" style="border-radius:16px;opacity:0.5;margin:48px 0;box-shadow:0 25px 70px rgba(5,3,0,0.4), inset 0 0 100px rgba(241,143,1,0.05);" />
 </p>
 
 ---
@@ -25,13 +32,13 @@ This README serves as the **complete visual identity system** for the dots / hoo
   <table>
     <tr>
       <td align="center" style="padding:24px;">
-        <img src="./design.png" alt="Primary sigil" width="240" style="border-radius:16px;box-shadow:0 20px 50px rgba(241,143,1,0.2);" />
-        <br><strong style="color:#F18F01;margin-top:12px;display:block;">design.png</strong>
-        <small style="opacity:0.7;">Primary hero • README headers • Landing pages</small>
+        <img src="./mort-sigil-primary-hero.png" alt="Primary sigil" width="240" style="border-radius:16px;box-shadow:0 20px 50px rgba(241,143,1,0.2);" />
+        <br><strong style="color:#F18F01;margin-top:12px;display:block;">mort-sigil-primary-hero.png</strong>
+        <small style="opacity:0.7;">Reference asset • Documentation • Techflow showcase</small>
       </td>
       <td align="center" style="padding:24px;">
-        <img src="./image.png" alt="Alternative sigil" width="240" style="border-radius:16px;box-shadow:0 20px 50px rgba(241,143,1,0.15);" />
-        <br><strong style="color:#F18F01;margin-top:12px;display:block;">image.png</strong>
+        <img src="./mort-sigil-social-square.png" alt="Alternative sigil" width="240" style="border-radius:16px;box-shadow:0 20px 50px rgba(241,143,1,0.15);" />
+        <br><strong style="color:#F18F01;margin-top:12px;display:block;">mort-sigil-social-square.png</strong>
         <small style="opacity:0.7;">Social previews • Square contexts • Variants</small>
       </td>
     </tr>
@@ -39,9 +46,10 @@ This README serves as the **complete visual identity system** for the dots / hoo
 </div>
 
 **Usage guidelines:**
-- **design.png** – Default choice for all hero sections, primary brand representation
-- **image.png** – Use when square format is required or as an alternative visual anchor
-- Both maintain the signature **ember glow** `#F18F01` eyes and techflow background aesthetic
+- **mort-sigil-primary-hero.png** – Reference asset with techflow background; use for documentation and reference contexts
+- **mort-sigil-social-square.png** – Alternative format optimized for social previews and square contexts
+- **Hero sections** – Use logo variants (SOLID or CLEAR) combined with Set assets for dynamic, branded hero compositions
+- Both sigil assets maintain the signature **ember glow** `#F18F01` eyes and techflow background aesthetic
 
 ---
 
@@ -277,7 +285,7 @@ The **Set** collection provides geometric design elements at multiple resolution
 ---
 
 <p align="center">
-  <img src="./backgrounds/MortBackground_1.png" alt="Techflow texture" width="85%" style="border-radius:12px;opacity:0.4;margin:48px 0;box-shadow:0 20px 60px rgba(5,3,0,0.3);" />
+  <img src="./backgrounds/mort-background-texture-1.png" alt="Techflow texture" width="85%" style="border-radius:12px;opacity:0.4;margin:48px 0;box-shadow:0 20px 60px rgba(5,3,0,0.3);" />
 </p>
 
 ---
@@ -290,22 +298,22 @@ The **Set** collection provides geometric design elements at multiple resolution
   <table>
     <tr>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackground.jpg" alt="MortBackground" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackground.jpg</small>
+        <img src="./backgrounds/mort-background-standard.jpg" alt="Mort Background Standard" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-standard.jpg</small>
       </td>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackground_1.png" alt="MortBackground_1" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackground_1.png</small>
+        <img src="./backgrounds/mort-background-texture-1.png" alt="Mort Background Texture 1" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-texture-1.png</small>
       </td>
     </tr>
     <tr>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackground_2.jpg" alt="MortBackground_2" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackground_2.jpg</small>
+        <img src="./backgrounds/mort-background-texture-2.jpg" alt="Mort Background Texture 2" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-texture-2.jpg</small>
       </td>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackground_3.jpg" alt="MortBackground_3" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackground_3.jpg</small>
+        <img src="./backgrounds/mort-background-texture-3.jpg" alt="Mort Background Texture 3" width="280" style="border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-texture-3.jpg</small>
       </td>
     </tr>
   </table>
@@ -321,14 +329,14 @@ The **Set** collection provides geometric design elements at multiple resolution
   <table>
     <tr>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackgrounWide.jpg" alt="MortBackgrounWide" width="100%" style="max-width:600px;border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackgrounWide.jpg</small>
+        <img src="./backgrounds/mort-background-wide-1.jpg" alt="Mort Background Wide 1" width="100%" style="max-width:600px;border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-wide-1.jpg</small>
       </td>
     </tr>
     <tr>
       <td align="center" style="padding:20px;">
-        <img src="./backgrounds/MortBackgrounWide2.jpg" alt="MortBackgrounWide2" width="100%" style="max-width:600px;border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
-        <br><small style="color:#F18F01;margin-top:12px;display:block;">MortBackgrounWide2.jpg</small>
+        <img src="./backgrounds/mort-background-wide-2.jpg" alt="Mort Background Wide 2" width="100%" style="max-width:600px;border-radius:12px;box-shadow:0 15px 40px rgba(5,3,0,0.3);opacity:0.85;" />
+        <br><small style="color:#F18F01;margin-top:12px;display:block;">mort-background-wide-2.jpg</small>
       </td>
     </tr>
   </table>
@@ -382,7 +390,7 @@ The **Set** collection provides geometric design elements at multiple resolution
 ---
 
 <p align="center">
-  <img src="./backgrounds/MortBackgrounWide2.jpg" alt="Final techflow background" width="100%" style="border-radius:16px;opacity:0.45;margin:56px 0;box-shadow:0 25px 80px rgba(5,3,0,0.4), inset 0 0 120px rgba(241,143,1,0.03);" />
+  <img src="./backgrounds/mort-background-wide-2.jpg" alt="Final techflow background" width="100%" style="border-radius:16px;opacity:0.45;margin:56px 0;box-shadow:0 25px 80px rgba(5,3,0,0.4), inset 0 0 120px rgba(241,143,1,0.03);" />
 </p>
 
 ---
@@ -393,19 +401,21 @@ The **Set** collection provides geometric design elements at multiple resolution
 
 | Context | Primary Asset | Logo Variant | Background | Set Assets |
 |---------|--------------|--------------|------------|------------|
-| **Hero section** | `design.png` | – | Wide format (optional) | Subtle 0.25x overlay |
+| **Hero section** | Logo variants (SOLID/CLEAR) | SOLID_MORT_1 or CLEAR_MORT_1 | Wide format (optional) | 1x Set assets as accents |
 | **Section dividers** | – | CLEAR (low opacity) | Standard (low opacity) | 1x geometric accents |
-| **Dark mode UI** | `image.png` | CLEAR variants | Standard backgrounds | 1x icons, 0.25x patterns |
-| **Light contexts** | `design.png` | SOLID variants | – | 2x for clarity |
-| **Social previews** | `image.png` | SOLID_MORT_1 | Wide format | – |
-| **Documentation** | `design.png` | CLEAR (watermark) | Standard (section breaks) | 1x section markers |
+| **Dark mode UI** | `mort-sigil-social-square.png` | CLEAR variants | Standard backgrounds | 1x icons, 0.25x patterns |
+| **Light contexts** | Logo variants | SOLID variants | – | 2x for clarity |
+| **Social previews** | `mort-sigil-social-square.png` | SOLID_MORT_1 | Wide format | – |
+| **Documentation** | Logo variants | CLEAR (watermark) | Standard (section breaks) | 1x section markers |
+| **Reference contexts** | `mort-sigil-primary-hero.png` | – | – | – |
 
 ### Visual hierarchy principles
 
-1. **Primary focus** – `design.png` or `image.png` as hero anchor
-2. **Secondary elements** – Logo variants at 20-40% opacity for subtle branding
+1. **Primary focus** – Logo variants (SOLID or CLEAR) as hero anchor, often combined with Set assets
+2. **Secondary elements** – Logo variants at 20-40% opacity for subtle branding in section dividers
 3. **Tertiary accents** – Set assets at 15-30% opacity for texture and rhythm
 4. **Background layers** – Techflow backgrounds at 40-60% opacity for atmosphere
+5. **Reference assets** – `mort-sigil-primary-hero.png` and `mort-sigil-social-square.png` for documentation and reference contexts
 
 ### Spacing & composition
 
@@ -422,18 +432,17 @@ The **Set** collection provides geometric design elements at multiple resolution
 
 ```markdown
 <!-- Primary sigils -->
-design.png
-image.png
+mort-sigil-primary-hero.png
+mort-sigil-social-square.png
 
 <!-- Logo variants -->
 logos/CLEAR/CLEAR_MORT_{1-11}.png
 logos/SOLID/SOLID_MORT_{1-11}.png
 
 <!-- Backgrounds -->
-backgrounds/MortBackground.jpg
-backgrounds/MortBackground_{1-3}.{jpg|png}
-backgrounds/MortBackgrounWide.jpg
-backgrounds/MortBackgrounWide2.jpg
+backgrounds/mort-background-standard.jpg
+backgrounds/mort-background-texture-{1-3}.{jpg|png}
+backgrounds/mort-background-wide-{1-2}.jpg
 
 <!-- Design set -->
 Set/1x/Asset {2-18}.png
@@ -444,10 +453,21 @@ Set/0.25x/Asset {2-18}@0.25x.png
 ### Quick implementation
 
 ```html
-<!-- Hero section -->
-<div align="center">
-  <img src="./design.png" width="280" 
-       style="border-radius:24px;box-shadow:0 30px 80px rgba(241,143,1,0.25);" />
+<!-- Hero section with logo and Set assets -->
+<div align="center" style="margin:40px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;margin-bottom:32px;">
+    <img src="./logos/SOLID/SOLID_MORT_1.png" width="180" 
+         style="filter:drop-shadow(0 0 30px rgba(241,143,1,0.4));" />
+    <div style="display:flex;gap:12px;align-items:center;">
+      <img src="./Set/1x/Asset 5.png" width="40" 
+           style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+      <img src="./Set/1x/Asset 7.png" width="40" 
+           style="opacity:0.5;filter:drop-shadow(0 0 12px rgba(241,143,1,0.25));" />
+      <img src="./Set/1x/Asset 9.png" width="40" 
+           style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+    </div>
+  </div>
+  <h1 style="margin-top:24px;color:#F18F01;">[Project Name]</h1>
 </div>
 
 <!-- Section divider with logo -->
@@ -458,7 +478,7 @@ Set/0.25x/Asset {2-18}@0.25x.png
 
 <!-- Background break -->
 <p align="center">
-  <img src="./backgrounds/MortBackgrounWide.jpg" width="100%" 
+  <img src="./backgrounds/mort-background-wide-1.jpg" width="100%" 
        style="opacity:0.5;border-radius:12px;margin:40px 0;" />
 </p>
 
@@ -470,7 +490,7 @@ Set/0.25x/Asset {2-18}@0.25x.png
 ---
 
 <p align="center">
-  <img src="./backgrounds/MortBackground_3.jpg" alt="Techflow texture" width="90%" style="border-radius:12px;opacity:0.35;margin:56px 0;box-shadow:0 20px 60px rgba(5,3,0,0.25);" />
+  <img src="./backgrounds/mort-background-texture-3.jpg" alt="Techflow texture" width="90%" style="border-radius:12px;opacity:0.35;margin:56px 0;box-shadow:0 20px 60px rgba(5,3,0,0.25);" />
 </p>
 
 ---
