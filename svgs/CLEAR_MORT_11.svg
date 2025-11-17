@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1352.7 429.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9d9d9;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: JetBrainsMonoNLNFP-Bold, 'JetBrainsMonoNL Nerd Font Propo';
+        font-size: 190.1px;
+        font-weight: 700;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #ff9100;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="224.74" y1="-37.62" x2="916.56" y2="446.8" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#332a1f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#452700"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <polygon class="cls-4" points="1103.8 0 198.4 0 0 382.92 961.29 382.92 1103.8 0"/>
+      <text class="cls-1" transform="translate(117.53 172.87)"><tspan x="0" y="0">PARADOX</tspan></text>
+      <text class="cls-2" transform="translate(354.75 353.46)"><tspan x="0" y="0">.ZONE</tspan></text>
+      <g>
+        <path class="cls-3" d="M961.23,382.92L1103.8,0h52.96l-142.58,382.92h-52.96Z"/>
+        <path class="cls-3" d="M1170.2,315.3v-46.85l118.14-54.59c5.43-2.44,10.8-4.48,16.09-6.11,5.3-1.63,9.43-2.85,12.42-3.67-2.99-.54-7.2-1.63-12.63-3.26-5.44-1.63-10.73-3.53-15.89-5.7l-118.14-54.99v-47.66l182.5,85.95v50.92l-182.5,85.95Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
