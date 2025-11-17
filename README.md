@@ -2,9 +2,9 @@
   <div style="display:flex;align-items:center;justify-content:center;gap:24px;flex-wrap:wrap;margin-bottom:32px;">
     <img src="./logos/SOLID/SOLID_MORT_1.png" alt="Mort sigil" width="180" style="filter:drop-shadow(0 0 30px rgba(241,143,1,0.4));" />
     <div style="display:flex;gap:12px;align-items:center;">
-      <img src="./Set/1x/Asset 5.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
-      <img src="./Set/1x/Asset 7.png" alt="Asset accent" width="40" style="opacity:0.5;filter:drop-shadow(0 0 12px rgba(241,143,1,0.25));" />
-      <img src="./Set/1x/Asset 9.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+      <img src="./Set/1x/mort-divider-horizontal-double.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
+      <img src="./Set/1x/mort-divider-horizontal-thin.png" alt="Asset accent" width="40" style="opacity:0.5;filter:drop-shadow(0 0 12px rgba(241,143,1,0.25));" />
+      <img src="./Set/1x/mort-divider-horizontal-medium.png" alt="Asset accent" width="40" style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
     </div>
   </div>
   <h1 style="margin-top:24px;color:#F18F01;text-shadow:0 0 20px rgba(241,143,1,0.3);">Mort Branding</h1>
@@ -12,19 +12,37 @@
   <p style="margin-top:12px;opacity:0.85;">logos • backgrounds • design assets • brand guidelines</p>
 </div>
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 <p align="center">
   <img src="./backgrounds/mort-background-wide-1.jpg" alt="Cinematic techflow background" width="100%" style="border-radius:16px;opacity:0.5;margin:48px 0;box-shadow:0 25px 70px rgba(5,3,0,0.4), inset 0 0 100px rgba(241,143,1,0.05);" />
 </p>
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Brand asset showcase
 
 This README serves as the **complete visual identity system** for the dots / hooded-amber brand. Every asset is catalogued, contextualized, and ready for implementation.
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Primary sigil assets
 
@@ -51,7 +69,13 @@ This README serves as the **complete visual identity system** for the dots / hoo
 - **Hero sections** – Use logo variants (SOLID or CLEAR) combined with Set assets for dynamic, branded hero compositions
 - Both sigil assets maintain the signature **ember glow** `#F18F01` eyes and techflow background aesthetic
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Logo variant library
 
@@ -113,7 +137,13 @@ This README serves as the **complete visual identity system** for the dots / hoo
 - Transparent compositions
 - Section dividers with low opacity
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ### Solid logos (opaque backgrounds)
 
@@ -182,7 +212,67 @@ This README serves as the **complete visual identity system** for the dots / hoo
 - Opaque compositions
 - Primary brand placement
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
+
+## Icon system
+
+The **Icons** collection provides the primary brand symbol at multiple resolutions and quality levels. These icons are **fundamental building blocks** for visual hierarchy, separators, and brand moments throughout all documentation and interfaces.
+
+### Icon variants
+
+<div align="center" style="margin:32px 0;">
+  <table>
+    <tr>
+      <td align="center" style="padding:20px;background:linear-gradient(135deg, #050505 0%, #1A120B 100%);border-radius:12px;border:1px solid rgba(241,143,1,0.15);">
+        <img src="./Icons/Icon_high@0.25x.png" alt="Icon High" width="60" style="opacity:0.9;filter:drop-shadow(0 0 15px rgba(241,143,1,0.3));" />
+        <br><strong style="color:#F18F01;margin-top:12px;display:block;">Icon_high</strong>
+        <small style="opacity:0.7;margin-top:4px;display:block;">High quality • 0.25x & 2x</small>
+      </td>
+      <td align="center" style="padding:20px;background:linear-gradient(135deg, #050505 0%, #1A120B 100%);border-radius:12px;border:1px solid rgba(241,143,1,0.15);">
+        <img src="./Icons/icon_med@0.25x.png" alt="Icon Medium" width="60" style="opacity:0.9;filter:drop-shadow(0 0 15px rgba(241,143,1,0.3));" />
+        <br><strong style="color:#F18F01;margin-top:12px;display:block;">icon_med</strong>
+        <small style="opacity:0.7;margin-top:4px;display:block;">Medium quality • 0.25x & 2x</small>
+      </td>
+      <td align="center" style="padding:20px;background:linear-gradient(135deg, #050505 0%, #1A120B 100%);border-radius:12px;border:1px solid rgba(241,143,1,0.15);">
+        <img src="./Icons/icon_low@0.25x.png" alt="Icon Low" width="60" style="opacity:0.9;filter:drop-shadow(0 0 15px rgba(241,143,1,0.3));" />
+        <br><strong style="color:#F18F01;margin-top:12px;display:block;">icon_low</strong>
+        <small style="opacity:0.7;margin-top:4px;display:block;">Low quality • 0.25x & 2x</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+**Icon usage patterns:**
+
+1. **Horizontal separators** – Icon centered between gradient lines for clean section breaks
+2. **Section markers** – Icons as visual anchors at the start of major sections
+3. **List bullets** – Replace generic bullets with icons for brand consistency
+4. **Call-to-action accents** – Icons near important buttons or links
+5. **Navigation elements** – Icons in headers, footers, and navigation bars
+6. **Background patterns** – 0.25x icons at low opacity for subtle texture
+
+**Resolution selection:**
+- **0.25x** – Lightweight separators, background patterns, subtle accents (24-32px display)
+- **2x** – Retina displays, high-DPI contexts, print materials (48-64px display)
+
+**Quality selection:**
+- **High** – Primary use for hero sections, important separators, prominent placements
+- **Medium** – Default choice for most contexts, balanced quality and file size
+- **Low** – Background patterns, subtle overlays, performance-critical contexts
+
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Design asset set
 
@@ -194,59 +284,59 @@ The **Set** collection provides geometric design elements at multiple resolution
   <table>
     <tr>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 2.png" alt="Asset 2" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-wide.png" alt="Horizontal Wide Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 3.png" alt="Asset 3" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-angled.png" alt="Horizontal Angled Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 4.png" alt="Asset 4" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-curved.png" alt="Horizontal Curved Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 5.png" alt="Asset 5" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-double.png" alt="Horizontal Double Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 6.png" alt="Asset 6" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-split.png" alt="Horizontal Split Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 7.png" alt="Asset 7" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 8.png" alt="Asset 8" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 9.png" alt="Asset 9" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 10.png" alt="Asset 10" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 11.png" alt="Asset 11" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 12.png" alt="Asset 12" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
-      </td>
-      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 13.png" alt="Asset 13" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-thin.png" alt="Horizontal Thin Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
     </tr>
     <tr>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 14.png" alt="Asset 14" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-short.png" alt="Horizontal Short Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 15.png" alt="Asset 15" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-medium.png" alt="Horizontal Medium Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 16.png" alt="Asset 16" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-divider-horizontal-long.png" alt="Horizontal Long Divider" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 17.png" alt="Asset 17" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-badge-diamond.png" alt="Diamond Badge" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
-        <img src="./Set/1x/Asset 18.png" alt="Asset 18" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+        <img src="./Set/1x/mort-icon-circle.png" alt="Circle Icon" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-icon-square.png" alt="Square Icon" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-icon-hexagon.png" alt="Hexagon Icon" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-badge-rounded.png" alt="Rounded Badge" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-badge-tag.png" alt="Tag Badge" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-badge-label.png" alt="Label Badge" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
+      </td>
+      <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
+        <img src="./Set/1x/mort-badge-pill.png" alt="Pill Badge" width="60" style="opacity:0.9;filter:drop-shadow(0 0 10px rgba(241,143,1,0.2));" />
       </td>
       <td align="center" style="padding:12px;background:linear-gradient(135deg, #050505 0%, #120B08 100%);border-radius:10px;border:1px solid rgba(241,143,1,0.08);">
         <div style="width:60px;height:60px;display:flex;align-items:center;justify-content:center;opacity:0.3;">
@@ -264,7 +354,13 @@ The **Set** collection provides geometric design elements at multiple resolution
 - **Call-to-action accents** – highlight important elements
 - **Navigation markers** – visual anchors in long-form content
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ### 2x resolution (retina / high-DPI)
 
@@ -282,7 +378,13 @@ The **Set** collection provides geometric design elements at multiple resolution
   <code style="background:rgba(241,143,1,0.1);padding:4px 8px;border-radius:4px;margin-top:8px;display:inline-block;">Set/0.25x/Asset N@0.25x.png</code>
 </div>
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 <p align="center">
   <img src="./backgrounds/mort-background-texture-1.png" alt="Techflow texture" width="85%" style="border-radius:12px;opacity:0.4;margin:48px 0;box-shadow:0 20px 60px rgba(5,3,0,0.3);" />
@@ -321,7 +423,13 @@ The **Set** collection provides geometric design elements at multiple resolution
 
 **Usage:** Section breaks, content backgrounds, desktop wallpapers, presentation slides
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ### Wide format backgrounds
 
@@ -344,7 +452,13 @@ The **Set** collection provides geometric design elements at multiple resolution
 
 **Usage:** Full-width hero sections, ultrawide displays, dual monitor setups, banner contexts
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Brand color system
 
@@ -387,13 +501,25 @@ The **Set** collection provides geometric design elements at multiple resolution
 - **Tungsten** `#1A120B` – depth layers, card backgrounds, subtle contrast
 - **Accent Smoke** `#43362D` – texture accents, warm overlays, atmospheric elements
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 <p align="center">
   <img src="./backgrounds/mort-background-wide-2.jpg" alt="Final techflow background" width="100%" style="border-radius:16px;opacity:0.45;margin:56px 0;box-shadow:0 25px 80px rgba(5,3,0,0.4), inset 0 0 120px rgba(241,143,1,0.03);" />
 </p>
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Implementation guidelines
 
@@ -401,21 +527,25 @@ The **Set** collection provides geometric design elements at multiple resolution
 
 | Context | Primary Asset | Logo Variant | Background | Set Assets |
 |---------|--------------|--------------|------------|------------|
-| **Hero section** | Logo variants (SOLID/CLEAR) | SOLID_MORT_1 or CLEAR_MORT_1 | Wide format (optional) | 1x Set assets as accents |
-| **Section dividers** | – | CLEAR (low opacity) | Standard (low opacity) | 1x geometric accents |
-| **Dark mode UI** | `mort-sigil-social-square.png` | CLEAR variants | Standard backgrounds | 1x icons, 0.25x patterns |
-| **Light contexts** | Logo variants | SOLID variants | – | 2x for clarity |
+| **Hero section** | Logo variants (SOLID/CLEAR) | SOLID_MORT_1 or CLEAR_MORT_1 | Wide format (optional) | 1x Set assets + Icons as accents |
+| **Section dividers** | Icons (0.25x) | CLEAR (low opacity) | Standard (low opacity) | Icon separators with gradient lines |
+| **Dark mode UI** | `mort-sigil-social-square.png` | CLEAR variants | Standard backgrounds | 0.25x icons for separators |
+| **Light contexts** | Logo variants | SOLID variants | – | 2x icons for clarity |
 | **Social previews** | `mort-sigil-social-square.png` | SOLID_MORT_1 | Wide format | – |
-| **Documentation** | Logo variants | CLEAR (watermark) | Standard (section breaks) | 1x section markers |
+| **Documentation** | Logo variants | CLEAR (watermark) | Standard (section breaks) | Icon separators throughout |
 | **Reference contexts** | `mort-sigil-primary-hero.png` | – | – | – |
+| **Horizontal separators** | Icons (0.25x med) | – | – | Gradient lines on either side |
 
 ### Visual hierarchy principles
 
 1. **Primary focus** – Logo variants (SOLID or CLEAR) as hero anchor, often combined with Set assets
-2. **Secondary elements** – Logo variants at 20-40% opacity for subtle branding in section dividers
-3. **Tertiary accents** – Set assets at 15-30% opacity for texture and rhythm
-4. **Background layers** – Techflow backgrounds at 40-60% opacity for atmosphere
-5. **Reference assets** – `mort-sigil-primary-hero.png` and `mort-sigil-social-square.png` for documentation and reference contexts
+2. **Icon separators** – Icons (0.25x medium) with gradient lines replace ALL horizontal rules `---` for brand consistency
+3. **Secondary elements** – Logo variants at 20-40% opacity for subtle branding in section dividers
+4. **Tertiary accents** – Set assets at 15-30% opacity for texture and rhythm
+5. **Background layers** – Techflow backgrounds at 40-60% opacity for atmosphere
+6. **Reference assets** – `mort-sigil-primary-hero.png` and `mort-sigil-social-square.png` for documentation and reference contexts
+
+**Icon frequency:** Icons should appear **VERY frequently** throughout documentation – use them for every section break, separator, and visual anchor point.
 
 ### Spacing & composition
 
@@ -424,7 +554,13 @@ The **Set** collection provides geometric design elements at multiple resolution
 - **Logo placement** – Center-aligned, 80-120px width for section dividers
 - **Set asset grids** – 6-column layouts with 12-16px padding per cell
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 ## Quick reference
 
@@ -448,6 +584,11 @@ backgrounds/mort-background-wide-{1-2}.jpg
 Set/1x/Asset {2-18}.png
 Set/2x/Asset {2-18}@2x.png
 Set/0.25x/Asset {2-18}@0.25x.png
+
+<!-- Icons -->
+Icons/Icon_high@{0.25x|2x}.png
+Icons/icon_med@{0.25x|2x}.png
+Icons/icon_low@{0.25x|2x}.png
 ```
 
 ### Quick implementation
@@ -459,11 +600,11 @@ Set/0.25x/Asset {2-18}@0.25x.png
     <img src="./logos/SOLID/SOLID_MORT_1.png" width="180" 
          style="filter:drop-shadow(0 0 30px rgba(241,143,1,0.4));" />
     <div style="display:flex;gap:12px;align-items:center;">
-      <img src="./Set/1x/Asset 5.png" width="40" 
+      <img src="./Set/1x/mort-divider-horizontal-double.png" width="40" 
            style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
-      <img src="./Set/1x/Asset 7.png" width="40" 
+      <img src="./Set/1x/mort-divider-horizontal-thin.png" width="40" 
            style="opacity:0.5;filter:drop-shadow(0 0 12px rgba(241,143,1,0.25));" />
-      <img src="./Set/1x/Asset 9.png" width="40" 
+      <img src="./Set/1x/mort-divider-horizontal-medium.png" width="40" 
            style="opacity:0.6;filter:drop-shadow(0 0 12px rgba(241,143,1,0.3));" />
     </div>
   </div>
@@ -485,15 +626,37 @@ Set/0.25x/Asset {2-18}@0.25x.png
 <!-- Set asset accent -->
 <img src="./Set/1x/Asset 5.png" width="40" 
      style="opacity:0.4;filter:drop-shadow(0 0 8px rgba(241,143,1,0.15));" />
+
+<!-- Icon-based horizontal separator -->
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" width="24" 
+         style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 ```
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 <p align="center">
   <img src="./backgrounds/mort-background-texture-3.jpg" alt="Techflow texture" width="90%" style="border-radius:12px;opacity:0.35;margin:56px 0;box-shadow:0 20px 60px rgba(5,3,0,0.25);" />
 </p>
 
----
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex;align-items:center;justify-content:center;gap:16px;">
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+    <img src="./Icons/icon_med@0.25x.png" alt="Icon separator" width="24" style="opacity:0.6;filter:drop-shadow(0 0 8px rgba(241,143,1,0.3));" />
+    <div style="flex:1;height:1px;background:linear-gradient(90deg, transparent, rgba(241,143,1,0.3), transparent);"></div>
+  </div>
+</div>
 
 <div align="center" style="margin-top:64px;padding:32px;background:linear-gradient(135deg, #050505 0%, #1A120B 100%);border-radius:16px;border:1px solid rgba(241,143,1,0.15);">
   <img src="./logos/SOLID/SOLID_MORT_1.png" alt="Mort sigil" width="120" style="filter:drop-shadow(0 0 25px rgba(241,143,1,0.3));margin-bottom:16px;" />
